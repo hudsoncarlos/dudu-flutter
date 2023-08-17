@@ -1,5 +1,4 @@
 # Flutter
-=====================
 
 Esse repositório criado para organizar aprendizados sobre Flutter.
 
