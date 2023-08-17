@@ -1,5 +1,6 @@
-# Calculador IMC Flutter
+# Flutter
 =====================
+
 Esse repositório criado para organizar aprendizados sobre Flutter.
 
 ## Deixe uma estrela! :star:
