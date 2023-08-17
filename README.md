@@ -1,17 +1,16 @@
-# Flutter
+# imc_app
 
-Esse repositório criado para organizar aprendizados sobre Flutter.
+A new Flutter project.
 
-## Deixe uma estrela! :star:
-Se o projeto te ajudou ou se achou interessante, deixe uma estrela ;)
+## Getting Started
 
-## Como usar:
-- Você precisará do Visual Studio 2022 ou mais recentes dependendo do momento que visualizar esta página.
-- É possível também utilizar o VS Code para rodar o projeto.
+This project is a starting point for a Flutter application.
 
-Segue o link para auxiliar na configuração do ambiente de trabalho: https://dotnet.microsoft.com/pt-br/download
+A few resources to get you started if this is your first Flutter project:
 
-## Technologies implemented:
+- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
+- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
-- Flutter
-- Dart
+For help getting started with Flutter development, view the
+[online documentation](https://docs.flutter.dev/), which offers tutorials,
+samples, guidance on mobile development, and a full API reference.
